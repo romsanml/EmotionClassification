@@ -6,6 +6,8 @@
 
 Библиотека face_recognition находит лица на изображении и модуль emotions выполняет классификацию. Классификация выполнена на 6 классов по 3120 изображений на каждый.
 
+Обучение модели классификации выполнено в модуле Emotion_Classification_Fit_Model.ipynb.
+
 Пример изображения находится в файле Surprice.jpeg.
 
 ![Surprice](https://user-images.githubusercontent.com/93383667/220379772-78581bd5-5646-4485-b70d-b94518858c56.jpeg)
