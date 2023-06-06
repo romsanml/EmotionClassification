@@ -1,4 +1,4 @@
-# EmotionElassification
+# EmotionClassification
 
 В репозитории приведено решение задачи классификации эмоций на изображении.
 
